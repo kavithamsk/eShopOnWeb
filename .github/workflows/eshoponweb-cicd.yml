@@ -9,7 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5af7ccce-c27f-4895-bfa6-5f228e8c8964
-  WEBAPP-NAME: az400-webapp-eshop
+  WEBAPP-NAME: az400-webapp-eshop4321
 
 
 jobs:
